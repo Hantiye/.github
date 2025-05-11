@@ -10,17 +10,6 @@ Hantiye is a platform for:
 
 We're committed to building a clean, modern, and user-friendly experience for individuals and communities to connect and transact.
 
-## 👥 Our Team
-
-- **Abdallah Abdirisaaq Mohamed** — Front-End Developer  
-  Specializes in building modern, responsive, and accessible interfaces.
-
-- **Abdihakim Ismail Mohamed** — Back-End Developer  
-  Crafts scalable APIs and handles secure data management and business logic.
-
-- **Abdiqafar Osman Abukar** — Graphic Designer  
-  Shapes the visual identity, branding, and UI/UX design of the platform.
-
 ---
 
 📌 Stay tuned as we build and launch the Hantiye platform.  
